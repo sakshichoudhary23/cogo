@@ -126,16 +126,16 @@ nav.fill ul li a:hover:after {
     .virusanime {
         /* border: 2px solid red;*/
         position: absolute;
-        top: 5rem;
-        left: 16rem;
-        width: 6rem;
-        height: 6rem;
+        top: 4rem;
+        left: 14rem;
+        width: 5rem;
+        height: 5rem;
     }
     .stayhome {
         text-align: center;
         display: inline-block;
         position: absolute;
-        top: 130rem;
+        top: 150rem;
         left: 1rem;
         right: 1rem;
         text-align: center;
@@ -144,7 +144,7 @@ nav.fill ul li a:hover:after {
     .prevention {
         display: inline-block;
         position: absolute;
-        top: 87rem;
+        top: 93rem;
         left: 1rem;
         right: 1rem;
         text-align: center;
@@ -153,7 +153,7 @@ nav.fill ul li a:hover:after {
     .symptoms {
         display: inline-block;
         position: absolute;
-        top: 46rem;
+        top: 48rem;
         left: 1rem;
         right: 1rem;
         text-align: center;
