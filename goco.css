@@ -149,8 +149,8 @@ nav.fill ul li a:hover:after {
         display: inline-block;
         position: relative;
         top: 3rem;
-        left: 0.4rem;
-        right: 0.9rem;
+        left: 0.7rem;
+        right: 0.7rem;
         text-align: center;
         font-size: large;
     }
