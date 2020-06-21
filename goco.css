@@ -135,7 +135,7 @@ nav.fill ul li a:hover:after {
         text-align: center;
         display: inline-block;
         position: absolute;
-        top: 120rem;
+        top: 130rem;
         left: 1rem;
         right: 1rem;
         text-align: center;
@@ -144,7 +144,7 @@ nav.fill ul li a:hover:after {
     .prevention {
         display: inline-block;
         position: absolute;
-        top: 77rem;
+        top: 80rem;
         left: 1rem;
         right: 1rem;
         text-align: center;
@@ -153,7 +153,7 @@ nav.fill ul li a:hover:after {
     .symptoms {
         display: inline-block;
         position: absolute;
-        top: 38rem;
+        top: 42rem;
         left: 1rem;
         right: 1rem;
         text-align: center;
