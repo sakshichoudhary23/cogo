@@ -124,12 +124,7 @@ nav.fill ul li a:hover:after {
         right: 2rem;
     }
     .virusanime {
-        /* border: 2px solid red;*/
-        position: absolute;
-        top: 4rem;
-        left: 14rem;
-        width: 5rem;
-        height: 5rem;
+   display:none;
     }
     .stayhome {
         text-align: center;
